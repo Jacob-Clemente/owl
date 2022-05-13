@@ -1,0 +1,5 @@
+project: jacob-clemente/owl
+target: owl
+
+cmds:
+  - cmd: /owl grammar.owl -i @@
